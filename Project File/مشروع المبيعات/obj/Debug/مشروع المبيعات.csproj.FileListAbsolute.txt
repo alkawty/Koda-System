@@ -1,0 +1,36 @@
+C:\Users\HicomTech\source\repos\مشروع المبيعات\مشروع المبيعات\bin\Debug\مشروع المبيعات.exe.config
+C:\Users\HicomTech\source\repos\مشروع المبيعات\مشروع المبيعات\bin\Debug\مشروع المبيعات.exe
+C:\Users\HicomTech\source\repos\مشروع المبيعات\مشروع المبيعات\bin\Debug\مشروع المبيعات.pdb
+C:\Users\HicomTech\source\repos\مشروع المبيعات\مشروع المبيعات\bin\Debug\Guna.UI2.dll
+C:\Users\HicomTech\source\repos\مشروع المبيعات\مشروع المبيعات\obj\Debug\مشروع_المبيعات.add_TGR.resources
+C:\Users\HicomTech\source\repos\مشروع المبيعات\مشروع المبيعات\obj\Debug\مشروع_المبيعات.Controls.resources
+C:\Users\HicomTech\source\repos\مشروع المبيعات\مشروع المبيعات\obj\Debug\مشروع_المبيعات.dept.resources
+C:\Users\HicomTech\source\repos\مشروع المبيعات\مشروع المبيعات\obj\Debug\مشروع_المبيعات.login.resources
+C:\Users\HicomTech\source\repos\مشروع المبيعات\مشروع المبيعات\obj\Debug\مشروع_المبيعات.manegment_users.resources
+C:\Users\HicomTech\source\repos\مشروع المبيعات\مشروع المبيعات\obj\Debug\مشروع_المبيعات.prodact.resources
+C:\Users\HicomTech\source\repos\مشروع المبيعات\مشروع المبيعات\obj\Debug\مشروع_المبيعات.Properties.Resources.resources
+C:\Users\HicomTech\source\repos\مشروع المبيعات\مشروع المبيعات\obj\Debug\مشروع_المبيعات.TGR_form.resources
+C:\Users\HicomTech\source\repos\مشروع المبيعات\مشروع المبيعات\obj\Debug\مشروع المبيعات.csproj.GenerateResource.cache
+C:\Users\HicomTech\source\repos\مشروع المبيعات\مشروع المبيعات\obj\Debug\مشروع المبيعات.csproj.CopyComplete
+C:\Users\HicomTech\source\repos\مشروع المبيعات\مشروع المبيعات\obj\Debug\مشروع المبيعات.exe
+C:\Users\HicomTech\source\repos\مشروع المبيعات\مشروع المبيعات\obj\Debug\مشروع المبيعات.pdb
+C:\Users\HicomTech\source\repos\مشروع المبيعات\مشروع المبيعات\obj\Debug\مشروع المبيعات.csprojAssemblyReference.cache
+C:\Users\HicomTech\source\repos\مشروع المبيعات\مشروع المبيعات\obj\Debug\مشروع_المبيعات.Add_prodact.resources
+C:\Users\HicomTech\Desktop\مجلد جديد (5)\مشروع المبيعات\مشروع المبيعات\bin\Debug\مشروع المبيعات.exe.config
+C:\Users\HicomTech\Desktop\مجلد جديد (5)\مشروع المبيعات\مشروع المبيعات\bin\Debug\مشروع المبيعات.exe
+C:\Users\HicomTech\Desktop\مجلد جديد (5)\مشروع المبيعات\مشروع المبيعات\bin\Debug\مشروع المبيعات.pdb
+C:\Users\HicomTech\Desktop\مجلد جديد (5)\مشروع المبيعات\مشروع المبيعات\bin\Debug\Guna.UI2.dll
+C:\Users\HicomTech\Desktop\مجلد جديد (5)\مشروع المبيعات\مشروع المبيعات\obj\Debug\مشروع المبيعات.csprojAssemblyReference.cache
+C:\Users\HicomTech\Desktop\مجلد جديد (5)\مشروع المبيعات\مشروع المبيعات\obj\Debug\مشروع_المبيعات.Add_prodact.resources
+C:\Users\HicomTech\Desktop\مجلد جديد (5)\مشروع المبيعات\مشروع المبيعات\obj\Debug\مشروع_المبيعات.add_TGR.resources
+C:\Users\HicomTech\Desktop\مجلد جديد (5)\مشروع المبيعات\مشروع المبيعات\obj\Debug\مشروع_المبيعات.Controls.resources
+C:\Users\HicomTech\Desktop\مجلد جديد (5)\مشروع المبيعات\مشروع المبيعات\obj\Debug\مشروع_المبيعات.dept.resources
+C:\Users\HicomTech\Desktop\مجلد جديد (5)\مشروع المبيعات\مشروع المبيعات\obj\Debug\مشروع_المبيعات.login.resources
+C:\Users\HicomTech\Desktop\مجلد جديد (5)\مشروع المبيعات\مشروع المبيعات\obj\Debug\مشروع_المبيعات.manegment_users.resources
+C:\Users\HicomTech\Desktop\مجلد جديد (5)\مشروع المبيعات\مشروع المبيعات\obj\Debug\مشروع_المبيعات.prodact.resources
+C:\Users\HicomTech\Desktop\مجلد جديد (5)\مشروع المبيعات\مشروع المبيعات\obj\Debug\مشروع_المبيعات.Properties.Resources.resources
+C:\Users\HicomTech\Desktop\مجلد جديد (5)\مشروع المبيعات\مشروع المبيعات\obj\Debug\مشروع_المبيعات.TGR_form.resources
+C:\Users\HicomTech\Desktop\مجلد جديد (5)\مشروع المبيعات\مشروع المبيعات\obj\Debug\مشروع المبيعات.csproj.GenerateResource.cache
+C:\Users\HicomTech\Desktop\مجلد جديد (5)\مشروع المبيعات\مشروع المبيعات\obj\Debug\مشروع المبيعات.csproj.CopyComplete
+C:\Users\HicomTech\Desktop\مجلد جديد (5)\مشروع المبيعات\مشروع المبيعات\obj\Debug\مشروع المبيعات.exe
+C:\Users\HicomTech\Desktop\مجلد جديد (5)\مشروع المبيعات\مشروع المبيعات\obj\Debug\مشروع المبيعات.pdb
